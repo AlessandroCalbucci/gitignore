@@ -24,7 +24,7 @@ namespace testGitIgnore
         {
             InitializeComponent();
 
-            MessageBox.Show("test");
+            MessageBox.Show("prova");
         }
     }
 }
